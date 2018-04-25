@@ -1,0 +1,17 @@
+{
+  "name": "tf-keyword-extractor",
+  "version": "1.0.0",
+  "description": "keyword extractor using tensorflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "tensorflow",
+    "keyword",
+    "extractor",
+    "finder"
+  ],
+  "author": "Kevin Danikowski",
+  "license": "MIT"
+}
